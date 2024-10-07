@@ -1,7 +1,7 @@
  # Maria Clara Campos Profeta
 
 ## Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-profeta-27out10/)  [![email](https://s2-techtudo.glbimg.com/thTNXmAFETofly-uFSQE1rZb0MQ=/0x0:695x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/V/2/dr4qQORlymaWT4sgWeTQ/2016-05-31-gmail-0.jpgstyle=for-the-badge&logo=gmail&logoColor=red)](maria.camposprofeta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-profeta-27out10/) 
 
 
 
