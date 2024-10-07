@@ -2,7 +2,7 @@
 
 ## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-profeta-27out10/)
-[![Email]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://s2-techtudo.glbimg.com/thTNXmAFETofly-uFSQE1rZb0MQ=/0x0:695x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/V/2/dr4qQORlymaWT4sgWeTQ/2016-05-31-gmail-0.jpg))]( maria.camposprofeta@gmail.com)
+[![Email]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fnoticias%2F2016%2F06%2Fcomo-definir-o-gmail-com-servico-de-e-mail-padrao-no-chrome.ghtml&psig=AOvVaw0WqBL82OGiRU_A54TDLh8s&ust=1728427270801000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC3soKr_YgDFQAAAAAdAAAAABAE))](https://mail.google.com/mail/u/0/?ogbl#inbox)
 
 
 ## GitHub Stats
