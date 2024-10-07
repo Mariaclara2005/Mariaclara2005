@@ -2,7 +2,7 @@
 
 ## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-profeta-27out10/)
-[![Email]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fnoticias%2F2016%2F06%2Fcomo-definir-o-gmail-com-servico-de-e-mail-padrao-no-chrome.ghtml&psig=AOvVaw0WqBL82OGiRU_A54TDLh8s&ust=1728427270801000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC3soKr_YgDFQAAAAAdAAAAABAE))](https://mail.google.com/mail/u/0/?ogbl#inbox)
+
 
 
 ## GitHub Stats
