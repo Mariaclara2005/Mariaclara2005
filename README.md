@@ -18,21 +18,24 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaClara2005&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaClara2005&theme=tokyonight" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MariaClara2005&show_icons=true&theme=tokyonight&cache_seconds=86400" 
+    alt="GitHub Stats"
+    height="160"
+  />
 </p>
-
 
 ---
 
 ## 💻 Linguagens Mais Utilizadas:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClara2005&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClara2005&layout=compact&theme=tokyonight&cache_seconds=86400" 
+    alt="Top Languages"
+  />
 </p>
-
 
 ---
 
