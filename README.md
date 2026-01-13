@@ -25,13 +25,7 @@
 ---
 
 ## 💻 Linguagens Mais Utilizadas:
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClara2005&layout=compact&theme=tokyonight&cache_seconds=86400" 
-    alt="Top Languages"
-  />
-</p>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaClara2005&theme=github_dark"/>
 ---
 
 ## 🛠️ Tecnologias e Ferramentas:
