@@ -19,14 +19,6 @@
 
 ---
 ## 📊 GitHub Stats:
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MariaClara2005&show_icons=true&theme=tokyonight&cache_seconds=86400" 
-    alt="GitHub Stats"
-    height="160"
-  />
-</p>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaClara2005&theme=tokyonight"/>
 
 
