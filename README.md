@@ -27,6 +27,9 @@
   />
 </p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaClara2005&theme=tokyonight"/>
+
+
 ---
 
 ## 💻 Linguagens Mais Utilizadas:
