@@ -1,4 +1,4 @@
-# 👩‍💻 Maria Clara Campos Profeta
+# ⭐👩‍💻 Maria Clara Campos Profeta
 
 🚀 Desenvolvedora em constante evolução, com foco em **Backend Java (Spring Boot)** e experiência em frontend quando necessário.
 
