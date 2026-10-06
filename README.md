@@ -22,6 +22,14 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaClara2005&theme=github_dark"/>
 ---
 
+## 📊 GitHub Stats
+ 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/apiw_icons=true&theme=radical
+ 
+<img height="180em" src="https://github-readme-streakr=SEU_USUARIO&theme=radical
+</p>
+
 ## 🛠️ Tecnologias e Ferramentas:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -31,6 +39,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?styleadge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
