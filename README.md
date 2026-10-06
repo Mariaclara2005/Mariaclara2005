@@ -40,9 +40,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe"/>
+  [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe"/>](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   <img src="https://img.shields.io/badge/Pandas-150458?styleadge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811-the-badge&logo=powerbi&logoColor=black"/>
+  [<img src="https://img.shields.io/badge/Power_BI-F2C811-the-badge&logo=powerbi&logoColor=black"/>](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 </p>
 
 ---
