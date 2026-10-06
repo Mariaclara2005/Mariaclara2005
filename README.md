@@ -29,6 +29,7 @@
  
 <img height="180em" src="https://github-readme-streakr=SEU_USUARIO&theme=radical
 </p>
+---
 
 ## 🛠️ Tecnologias e Ferramentas:
 <p align="left">
